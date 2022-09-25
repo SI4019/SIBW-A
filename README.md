@@ -1,7 +1,7 @@
 # Repositori Praktikum Sistem Informasi Berbasis Web A
 
 <p align="left">
-<a href="#"><img src="https://komarev.com/ghpvc/?username=SI4019&color=blueviolet"></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=SIBW-A&color=blueviolet"></a>
 <a href="#"><img src="https://img.shields.io/github/issues-pr/SI4019/SIBW-A?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/repo-size/SI4019/SIBW-A?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/SI4019/SIBW-A?style=flat-square"></a>
@@ -29,7 +29,7 @@ Contoh struktur direktori sebagai *berikut:*
     |   ├── Praktikum #02         # Sub Direktori hasil praktikum #02
     │   ├── Praktikum #03         # dan seterusnya.....
     │   └── README.md             # ini sebagai catatan aturan penulisan menggunakan format Markdown
-    |                             # Contoh : 
+    |                             # Contoh : Praktikum_01
     └── ...
 
 5. **Push** berkas tugas anda ke repositori hasil _fork_ pada _branch_ **NIM** anda.
@@ -47,6 +47,8 @@ Contoh struktur direktori sebagai *berikut:*
 ## Software Pendukung ⚙️
 
 - [Visual Studio Code](https://code.visualstudio.com) 📥
+- [XAMPP](https://www.apachefriends.org/download.html) 📥
+- [Laragon](https://laragon.org/download/) 📥
 
 ## Modul Praktikum 👁‍🗨
 
