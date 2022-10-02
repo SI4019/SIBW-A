@@ -52,7 +52,7 @@ Contoh struktur direktori sebagai *berikut:*
 
 ## Modul Praktikum 👁‍🗨
 
-- [Modul Praktikum Git & Github #0 (Intro/Setup) :octocat:](/)
+- [Panduan Praktikunm GIT](https://github.com/SI4019/Panduan-Praktikum-SI4019) :octocat:
 
 
 ## Referensi 🕵️‍♂️
