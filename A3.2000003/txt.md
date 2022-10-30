@@ -1,2 +1,2 @@
 Adelya Syafitria Syafril 
-NIM A3.2000003
+A3.2000003
