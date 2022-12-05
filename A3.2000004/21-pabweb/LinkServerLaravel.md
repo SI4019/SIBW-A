@@ -6,3 +6,4 @@ Nim  : A3.2000004
 SI-5A
 
 TERIMA KASIH PAK
+terima kasih
