@@ -14,11 +14,11 @@ class BlogController extends Controller
      * @return void
      */
     public function index()
+
     {
         $blogs = Blog::latest()->paginate(10);
         return view('blog.index', compact('blogs'));
     }
-
     /**
 * create
 *
@@ -123,6 +123,7 @@ public function update(Request $request, Blog $blog)
         return redirect()->route('blog.index')->with(['error' => 'Data Gagal Diupdate!']);
     }
 }
+
 /**
 * destroy
 *
