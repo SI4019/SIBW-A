@@ -14,6 +14,7 @@ class BlogController extends Controller
      * @return void
      */
     public function index()
+
     {
         $blogs = Blog::latest()->paginate(10);
         return view('blog.index', compact('blogs'));
@@ -61,7 +62,6 @@ public function store(Request $request)
         return redirect()->route('blog.index')->with(['error' => 'Data Gagal Disimpan!']);
     }
 }
-
 /**
 * edit
 *
