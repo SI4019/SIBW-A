@@ -1,0 +1,1 @@
+https://jayyy-7.000webhostapp.com/blog
