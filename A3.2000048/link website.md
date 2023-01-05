@@ -1,0 +1,1 @@
+https://bbanggjonn.000webhostapp.com/blog
